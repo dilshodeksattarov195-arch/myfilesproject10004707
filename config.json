@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvalculate",
+        "uuid": 34257546,
+        "checksum": "aglq5p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
